@@ -1,7 +1,8 @@
 <h1 align = "center"> Olá 👋, sou Daiane Silva </h1>
 <h3 align = "center"> Uma desenvolvedora de front end em busca de um início de desenvolvimento </h3>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://daianemsilva09.github.io/portfolio/](https://daianemsilva09.github.io/portfolio/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://daianemsilva09.github.io/portfolio/](https://daianemsilva09.github.io/portfolio/) 
+- Site em desenvolvimento...
 
 - 📫 How to contact me **daianemsilva@gmail.com**
 
