@@ -2,7 +2,6 @@
 <h3 align = "center"> Uma desenvolvedora de front end em busca de um início de desenvolvimento </h3>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em (Site em desenvolvimento...) [https://daianemsilva09.github.io/portfolio/](https://daianemsilva09.github.io/portfolio/) 
-- Site em desenvolvimento...
 
 - 📫 How to contact me **daianemsilva@gmail.com**
 
