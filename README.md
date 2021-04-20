@@ -7,7 +7,7 @@
 
 - 📄 Know about minhas experiências [https://drive.google.com/file/d/1oi6-F669G6ZWRPQyRyU9l2elS303dcAE/view?usp=sharing](https://drive.google.com/file/d/1oi6-F669G6ZWRPQyRyU?9l2elSview/30dc compartilhamento)
 
-- ⚡ Curiosidade ** Acho que sou abençoado **
+- ⚡ Curiosidade ** I think I'm blessed **
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
