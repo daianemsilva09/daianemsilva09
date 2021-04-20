@@ -3,11 +3,11 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em (Site em desenvolvimento...) [https://daianemsilva09.github.io/portfolio/](https://daianemsilva09.github.io/portfolio/) 
 
-- 📫 How to contact me **daianemsilva@gmail.com**
+- 📫 Como entrar em contato comigo **daianemsilva@gmail.com**
 
-- 📄 Know about minhas experiências [https://drive.google.com/file/d/1oi6-F669G6ZWRPQyRyU9l2elS303dcAE/view?usp=sharing](https://drive.google.com/file/d/1oi6-F669G6ZWRPQyRyU?9l2elSview/30dc compartilhamento)
+- 📄 Saber sobre minhas experiências [https://drive.google.com/file/d/1oi6-F669G6ZWRPQyRyU9l2elS303dcAE/view?usp=sharing](https://drive.google.com/file/d/1oi6-F669G6ZWRPQyRyU?9l2elSview/30dc compartilhamento)
 
-- ⚡ Curiosidade ** I think I'm blessed **
+- ⚡ Curiosidade ** acho que sou abençoado **
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
