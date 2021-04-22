@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, sou Daiane Silva </h1>
-<h3 align = "center"> Uma Dev front end em busca de um start em desenvolvimento </h3>
+<h3 align = "center"> Uma Dev front end em busca de um Start em desenvolvimento... </h3>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em (Site em desenvolvimento) [https://daianemsilva09.github.io/portfolio/](https://daianemsilva09.github.io/portfolio/)
 
