@@ -5,7 +5,7 @@
 
 - 📫 How to contact me **daianemsilva@gmail.com**
 
-- 📄 Know about minhas experiências https://drive.google.com/file/d/1oi6-F669G6ZWRPQyRyU?9l2elSview/30dc 
+- 📄 Know about minhas experiências https://docs.google.com/document/d/1B_6RSH6MjFtsZLgFpxZktZuxLuTN8DMit3gxYcQ__MY/edit?usp=sharing 
 
 - ⚡ Curiosidade ** Acho que sou abençoado **
 
